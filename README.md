@@ -16,4 +16,4 @@ I’m interested in collaborating on:
 - Educational content related to security and ethical hacking  
 
 ## 📫 How to Reach Me
-You can contact me via [GitHub](https://github.com/dexter-nate) or reach out to me on [LinkedIn](https://www.linkedin.com/in/lorenzo-naturale-859a521a6/).
+You can contact me via [GitHub](https://github.com/dexter-nate).
