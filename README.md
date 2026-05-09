@@ -9,7 +9,6 @@ I am a cybersecurity student with a strong interest in both offensive and defens
 - Learning multiple programming and scripting languages  
 
 ## 🤝 Collaboration Interests
-I’m interested in collaborating on:
 - Cybersecurity research projects  
 - CTF teams and competitions  
 - Open-source security tools and utilities  
