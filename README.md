@@ -1,15 +1,19 @@
 # Hi there, I'm @dexter-nate 👋
 
-## 👀 About Me
-I’m a cybersecurity student with a passion for technology and sports. I'm also a food lover and enjoy movies and music. 
+## 👨‍💻 About Me
+I am a cybersecurity student with a strong interest in both offensive and defensive security, and a particular passion for cryptography.
 
-## 🌱 Currently Learning
-I’m currently expanding my knowledge in cybersecurity, exploring new technologies, and diving into various programming languages.
+## 🎯 Current Focus
+- Expanding knowledge in cybersecurity fundamentals and advanced topics  
+- Practicing through CTF platforms and hands-on labs  
+- Learning multiple programming and scripting languages  
 
-## 💞️ Looking to Collaborate On
-I’m looking to collaborate on security research projects, CTF challenges, and open-source tech initiatives.
-
-If you have a project or idea in mind, feel free to reach out!
+## 🤝 Collaboration Interests
+I’m interested in collaborating on:
+- Cybersecurity research projects  
+- CTF teams and competitions  
+- Open-source security tools and utilities  
+- Educational content related to security and ethical hacking  
 
 ## 📫 How to Reach Me
 You can contact me via [GitHub](https://github.com/dexter-nate) or reach out to me on [LinkedIn](https://www.linkedin.com/in/lorenzo-naturale-859a521a6/).
